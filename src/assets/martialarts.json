@@ -1,0 +1,28 @@
+{
+    "martialArts": [
+        {
+            "name": "jujitsu",
+            "origin": "Brazil",
+            "specialMoves": ["chokeholds", "kamora"],
+            "attributes": ["grappling", "wrestling"],
+            "relatedType": ["judo"],
+            "famousPerson": ["Joe Rogen"]
+        },
+        {
+            "name": "karate",
+            "origin": "China",
+            "specialMoves": ["kicks"],
+            "attributes": ["kick", "punch"],
+            "relatedType": ["kungfu"],
+            "famousPerson": ["Mr Miyagi"]
+        },
+        {
+            "name": "kungfu",
+            "origin": "Hong Kong",
+            "specialMoves": ["one man punch"],
+            "attributes": ["kick", "punch"],
+            "relatedType": ["karate"],
+            "famousPerson": ["Bruce Lee"]
+        }
+    ]
+}
